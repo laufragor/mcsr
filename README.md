@@ -1,6 +1,10 @@
 # mcsr
 Minecraft speedrunning useful resources
 
+fov: 80 (100 is cool as well), quake pro in the end
+sens: 20cm/360° - 800dpi
+keybinds: Q234RVXCF, drop=caps, offhand=mouse4, f5=mouse5, f3=dpi button
+
 - Rayoh's grass overlay: https://www.mediafire.com/file/buoixjsalyjdti7/rayoh%2527s_grass_overlay.zip/file
 - Emma's One Cycle Map https://sites.google.com/view/emma-practice-map/home
 - Jojoe's End Fight Map https://github.com/jojoe77777/PerchPractice/releases/latest
