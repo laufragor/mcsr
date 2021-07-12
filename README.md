@@ -22,3 +22,5 @@ Emma's One Cycle Map https://sites.google.com/view/emma-practice-map/home
 6. Other cool shit  
 RSG Reset Tracker https://www.youtube.com/watch?v=TdnQpkOyrJo  
 Rayoh's grass overlay: https://www.mediafire.com/file/buoixjsalyjdti7/rayoh%2527s_grass_overlay.zip/file
+
+linux sens same as windows: `xinput set-prop "Logitech Gaming Mouse G402" "Coordinate Transformation Matrix" 1.570000, 0.000000, 0.000000, 0.000000, 1.570000, 0.000000, 0.000000, 0.000000, 1.000000`
