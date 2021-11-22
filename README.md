@@ -29,7 +29,8 @@ Keybinds: Q234RVXCF, drop=caps, offhand=mouse4, f5=mouse5, f3=dpi button
 - Puntatore a croce: (devi aver selezionato DMZ-Black come puntatore in start > temi)
 ```cd /usr/share/icons/DMZ-Black/cursors/
 sudo cp left_ptr left_ptr_BACKUP
-sudo cp cross left_ptr```
+sudo cp cross left_ptr
+```
 - Sensibilità mouse linux: usa il doppio dei DPI che useresti su windows, e disabilita completamente l'accelerazione del mouse:  
 `$ xinput set-prop "Logitech Gaming Mouse G402" "libinput Accel Speed" -1` (se fa storie, `xinput list-props "Logitech Gaming Mouse G402"` e trova la proprietà relativa all'accelerazione`)
 e metti 800dpi in win sarebbe 400dpi 75%. ~9.2cm da sx a dx del desktop in 1920x1080
