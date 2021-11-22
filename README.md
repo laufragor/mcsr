@@ -34,5 +34,6 @@ sudo cp cross left_ptr
 ```
 - Sensibilità mouse linux = 800dpi ~45% (0.22748699 in .minecraft > options.txt)  
 usa il doppio dei DPI che useresti su windows (in win sarebbe 400dpi 75%), e disabilita completamente l'accelerazione del mouse:  
-`$ xinput set-prop "Logitech Gaming Mouse G402" "libinput Accel Speed" -1` (se fa storie, `xinput list-props "Logitech Gaming Mouse G402"` e trova la proprietà relativa all'accelerazione`)
+`$ xinput set-prop "Logitech Gaming Mouse G402" "libinput Accel Speed" -1`  
+(se fa storie, `xinput list-props "Logitech Gaming Mouse G402"` e trova la proprietà relativa all'accelerazione`)
 ~9.2cm da sx a dx del desktop in 1920x1080
