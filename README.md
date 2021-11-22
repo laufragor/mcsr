@@ -27,7 +27,8 @@ Fov: 95 w/ dynamic fov off, quake pro in the end
 Keybinds: Q234RVXCF, drop=caps, offhand=mouse4, f5=mouse5, f3=dpi button
 
 - Puntatore a croce: (devi aver selezionato DMZ-Black come puntatore in start > temi)
-```cd /usr/share/icons/DMZ-Black/cursors/
+```
+cd /usr/share/icons/DMZ-Black/cursors/
 sudo cp left_ptr left_ptr_BACKUP
 sudo cp cross left_ptr
 ```
