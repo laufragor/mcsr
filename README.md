@@ -1,5 +1,7 @@
 # mcsr
 Minecraft speedrunning useful resources
+
+Timer: https://github.com/NinjaSnail1080/mc-universal-in-game-timer/releases/latest  
  
 1. **MultiMC**  
 way better launcher https://multimc.org/#Download
